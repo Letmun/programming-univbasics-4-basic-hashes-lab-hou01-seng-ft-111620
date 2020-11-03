@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  Hash.new
+  { :favorite_color => "purple"}
 end
 
 def pioneer
